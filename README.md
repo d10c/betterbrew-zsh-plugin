@@ -40,8 +40,6 @@ $ bifs zsh
 
 ## Aliases
 
-#### Essential Commands
-
 | Alias                | Command                                                                                                                                 |
 |:---------------------|:--------------------------------|
 | binst                | brew install

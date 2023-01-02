@@ -40,56 +40,60 @@ $ bifs zsh
 
 ## Aliases
 
-| Alias                | Command                                                                                                                                 |
-|:---------------------|:--------------------------------|
-| binst                | brew install
-| buinst               | brew uninstall
-| bupd                 | brew update
-| blst                 | brew list
-| bsrch                | brew search
-| banal                | brew analytics
-| bcat                 | brew cat
-| bclean               | brew cleanup
-| bcom                 | brew command
-| bcoms                | brew commands
-| bcon                 | brew config
-| bdeps                | brew deps
-| bdesc                | brew desc
-| bdiy                 | brew diy
-| bdoc                 | brew doctor
-| bfetch               | brew fetch
-| bgist                | brew gist-logs
-| bhome                | brew home
-| binfo                | brew info
-| bleaves              | brew leaves
-| bln                  | brew ln
-| blog                 | brew log
-| bmig                 | brew migrate
-| bmiss                | brew missing
-| bopt                 | brew options
-| bout                 | brew outdated
-| bpin                 | brew pin
-| bpinst               | brew postinstall
-| bprune               | brew prune
-| bread                | brew readall
-| brinst               | brew reinstall
-| bsh                  | brew sh
-| bstyle               | brew style
-| bswitch              | brew switch
-| btap                 | brew tap
-| btapinfo             | brew tap-info
-| btappin              | brew tap-pin
-| btapunpin            | brew tap-unpin
-| bulink               | brew unlink
-| bupack               | brew unpack
-| bupin                | brew unpin
-| butap                | brew untap
-| bupdr                | brew update-reset
-| bupgr                | brew upgrade
-| buses                | brew uses
-| bcache               | brew --cache
-| bcell                | brew --cellar
-| benv                 | brew --env
-| bprefix              | brew --prefix
-| brepo                | brew --repository
-| bver                 | brew --version
+| Alias  | Command         |
+|:-------|:----------------|
+| br     | brew            |
+| brana  | br analytics    |
+| brcat  | br cat          |
+| brcle  | br cleanup      |
+| brcom  | br command      |
+| brcoms | br commands     |
+| brcon  | br config       |
+| brdep  | br deps         |
+| brdes  | br desc         |
+| brdiy  | br diy          |
+| brdoc  | br doctor       |
+| brfet  | br fetch        |
+| brgis  | br gist-logs    |
+| brhom  | br home         |
+| brinf  | br info         |
+| brins  | br install      |
+| brlea  | br leaves       |
+| brlis  | br list         |
+| brln   | br ln           |
+| brlog  | br log          |
+| brmig  | br migrate      |
+| brmig  | br missing      |
+| broca  | br --cache      |
+| broce  | br --cellar     |
+| broen  | br --env        |
+| bropr  | br --prefix     |
+| bropt  | br options      |
+| brore  | br --repository |
+| brout  | br outdated     |
+| brove  | br --version    |
+| brpin  | br pin          |
+| brpos  | br postinstall  |
+| brpru  | br prune        |
+| brrea  | br readall      |
+| brrei  | br reinstall    |
+| brsea  | br search       |
+| brsh   | br sh           |
+| brsty  | br style        |
+| brswi  | br switch       |
+| brtap  | br tap          |
+| brtapi | br tap-info     |
+| brtapp | br tap-pin      |
+| brtapu | br tap-unpin    |
+| bruin  | br uninstall    |
+| bruli  | br unlink       |
+| brupa  | br unpack       |
+| brupd  | br update       |
+| brupdr | br update-reset |
+| brupg  | br upgrade      |
+| brupi  | br unpin        |
+| bruse  | br uses         |
+| bruta  | br untap        |
+| brse   | br services     |
+| brseli | brse list       |
+| sbrse  | sudo brse       |
